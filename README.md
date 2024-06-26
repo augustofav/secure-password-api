@@ -30,7 +30,7 @@ To run this project locally, follow these steps:
 3. Change into the project directory:
 
    ```bash
-   cd SecurePasswordChanllenge
+   cd secure-password-api
    ```
 
 4. Install dependencies:
